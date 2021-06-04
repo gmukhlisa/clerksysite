@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Recoleta";
+    font-style: bold;
+    font-weight: 600;
+    src: url('../fonts/Recoleta-SemiBold.woff2') format('woff2');
+}
+@font-face {
+    font-family: "Noto Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/NotoSans.woff2') format('woff2');
+}
